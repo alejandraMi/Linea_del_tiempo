@@ -1,0 +1,38 @@
+html{
+    margin: 0;
+    padding: 0;
+    background: #25383C;
+    color: #fff;
+
+}
+body{
+    width: 90%;
+    margin: 10px auto;
+}
+header{
+    margin: 10px 0;
+    padding: 70px 0;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background: #98AFC7;
+
+}
+nav{
+    margin: 10px auto;
+    padding: 90px 0;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    padding: 20px 0;
+    background: #4863A0;
+
+}

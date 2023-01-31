@@ -1,0 +1,71 @@
+html{
+    margin: 0;
+    padding: 0;
+    background: #7fe080;
+    color:black;
+}
+body{
+    width: 90%;
+    margin: 10px auto;
+
+}
+.limpiar{
+    clear: both;
+}
+/* # para id  . para clases */
+header, nav, aside, section, article, footer{
+    margin: 10px 0;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background: #1ad054;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    color:black;
+}
+img {
+    display: block;
+    margin: auto;
+  }
+
+h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+}
+
+aside{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background: #088f8f;
+
+}
+section{
+    float: right;
+    width: 70%;
+    height: 20px;
+    text-align: center;
+    
+
+}
+aside div{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+article{
+    margin: 10px auto;
+    background: #710bb1;
+    width: 90%;
+}
+footer{
+    background: #f366f3;
+}
